@@ -1487,9 +1487,6 @@
     <ClCompile Include="GS\Renderers\DX11\GSTexture11.cpp">
       <Filter>System\Ps2\GS\Renderers\Direct3D</Filter>
     </ClCompile>
-    <ClCompile Include="GS\Renderers\DX11\GSTextureCache11.cpp">
-      <Filter>System\Ps2\GS\Renderers\Direct3D</Filter>
-    </ClCompile>
     <ClCompile Include="GS\Renderers\DX11\GSTextureFX11.cpp">
       <Filter>System\Ps2\GS\Renderers\Direct3D</Filter>
     </ClCompile>
@@ -1503,9 +1500,6 @@
       <Filter>System\Ps2\GS\Renderers\OpenGL</Filter>
     </ClCompile>
     <ClCompile Include="GS\Renderers\OpenGL\GSShaderOGL.cpp">
-      <Filter>System\Ps2\GS\Renderers\OpenGL</Filter>
-    </ClCompile>
-    <ClCompile Include="GS\Renderers\OpenGL\GSTextureCacheOGL.cpp">
       <Filter>System\Ps2\GS\Renderers\OpenGL</Filter>
     </ClCompile>
     <ClCompile Include="GS\Renderers\OpenGL\GSTextureOGL.cpp">
@@ -2577,9 +2571,6 @@
     <ClInclude Include="GS\Renderers\DX11\GSTexture11.h">
       <Filter>System\Ps2\GS\Renderers\Direct3D</Filter>
     </ClInclude>
-    <ClInclude Include="GS\Renderers\DX11\GSTextureCache11.h">
-      <Filter>System\Ps2\GS\Renderers\Direct3D</Filter>
-    </ClInclude>
     <ClInclude Include="GS\Renderers\OpenGL\GLLoader.h">
       <Filter>System\Ps2\GS\Renderers\OpenGL</Filter>
     </ClInclude>
@@ -2590,9 +2581,6 @@
       <Filter>System\Ps2\GS\Renderers\OpenGL</Filter>
     </ClInclude>
     <ClInclude Include="GS\Renderers\OpenGL\GSShaderOGL.h">
-      <Filter>System\Ps2\GS\Renderers\OpenGL</Filter>
-    </ClInclude>
-    <ClInclude Include="GS\Renderers\OpenGL\GSTextureCacheOGL.h">
       <Filter>System\Ps2\GS\Renderers\OpenGL</Filter>
     </ClInclude>
     <ClInclude Include="GS\Renderers\OpenGL\GSTextureOGL.h">
